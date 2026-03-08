@@ -1,0 +1,15 @@
+# Virtual environment
+Sip/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML models
+*.h5
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
